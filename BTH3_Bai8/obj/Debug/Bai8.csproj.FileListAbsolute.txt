@@ -1,0 +1,22 @@
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\bin\Debug\Bai8.exe.config
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\bin\Debug\Bai8.exe
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\bin\Debug\Bai8.pdb
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.Form1.resources
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.exe
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.pdb
+D:\Khanh\Lập trình trực quan\Thực hành\BTH3_HuynhLongBaoKhanh_24520781\Bai8\obj\Debug\Bai8.exe.config
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\bin\Debug\Bai8.exe.config
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\bin\Debug\Bai8.exe
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\bin\Debug\Bai8.pdb
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.exe.config
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.Form1.resources
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.Properties.Resources.resources
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.exe
+D:\UIT-2025-2026\LLTQ\Thực hành\24520765_PhamNgocGiaKhang_BTH03\BTH3_Bai8\obj\Debug\Bai8.pdb
